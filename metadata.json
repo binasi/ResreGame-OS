@@ -1,0 +1,5 @@
+{
+  "name": "RetroGame OS",
+  "description": "A retro-styled game console operating system capable of playing classic web games and chiptune music.",
+  "requestFramePermissions": []
+}
